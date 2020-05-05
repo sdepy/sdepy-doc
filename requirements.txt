@@ -3,8 +3,9 @@
 # used by binder
 # --------------------
 
-python = 3.7
-numpy >= 1.18
-scipy >= 1.4
-matplotlib >= 3.1
-pytest >= 5.4
+python==3.7
+numpy>=1.18
+scipy>=1.4
+matplotlib>=3.1
+pytest>=5.4
+sdepy==1.1.0
