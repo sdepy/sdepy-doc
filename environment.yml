@@ -11,4 +11,4 @@ dependencies:
   - matplotlib>=3.1
   - pip
   - pip:
-    - sdepy==1.1.0
+    - sdepy>=1.1.1
