@@ -11,4 +11,4 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-    - sdepy>=1.1.1
+    - sdepy
